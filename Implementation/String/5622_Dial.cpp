@@ -22,7 +22,6 @@ int main(void){
     sum += s.length();
     cout << sum << endl;
 }
-
 //Input
 //UNUCIC
 

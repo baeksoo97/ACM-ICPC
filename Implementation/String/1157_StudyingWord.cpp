@@ -23,11 +23,10 @@ int main(void){
             max_idx = i;
         }
     }
-    for(int i=0;i<26;i++){
+    for(int i=0;i<26;i++)
         if (max == alphabet[i] && max_idx != i){
             isDuplicate = 1;
-        }
-    }
+            
     if(isDuplicate)
         cout << "?" <<endl;
     else

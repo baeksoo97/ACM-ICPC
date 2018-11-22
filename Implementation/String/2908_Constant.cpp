@@ -12,7 +12,6 @@ int main(void){
     else
         cout << b << endl;
 }
-
 //Input
 //734 893
 
