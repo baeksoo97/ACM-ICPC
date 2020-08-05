@@ -77,5 +77,6 @@ int main(void) {
 		}
 	}
 	program.solve();
+	
 	return 0;
 }
